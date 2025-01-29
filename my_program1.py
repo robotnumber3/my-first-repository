@@ -2,8 +2,8 @@
 
 from utils import add, subtract, multiply, divide
 
-a = 3
-b = 4
+a = 3.27
+b = 4.915
 c = 6.713
 
 print(f'{a = }, {b = }, {c = }')
